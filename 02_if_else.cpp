@@ -1,4 +1,4 @@
-// 2. If/Else Statement programs (duplicates in the list merged into one program each)
+// 2. If/Else Statement programs (duplicates in the list merged into one program each).
 #include <iostream>
 #include <cmath>
 using namespace std;
